@@ -1,0 +1,5 @@
+function completar(num1, num2) {
+  var suma = num1 + num2;
+}
+
+completar(9, 9);
