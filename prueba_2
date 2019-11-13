@@ -2,4 +2,4 @@ function completar(num1, num2) {
   var suma = num1 + num2;
 }
 
-completar(4, 5);
+completar(9, 9);
